@@ -5,3 +5,5 @@ figure2a.html
 
 The videos HTML versions can be found on this URL plus "video" + number + ".html" e.g.:
 videoS2.html
+
+* [Figure 2A](figure2a.html)
